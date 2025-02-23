@@ -1,4 +1,4 @@
-<img align="center" src="https://raw.githubusercontent.com/lsaikrithik/lsaikrithik/main/src/banner.jfif" alt="Banner"><br>
+![banner](https://user-images.githubusercontent.com/61261654/114380542-d3314f80-9ba7-11eb-847c-31ba132fb4b8.png)
 
 ### Hi there 👋  
 
